@@ -1,0 +1,13 @@
+{
+  "status": "ok",
+  "person": {
+    "name": "Leanne Light",
+    "id": 1,
+    "age": 32,
+    "address": {
+      "hno": "95 George Street",
+      "city": "Greenland",
+      "state": "LA",
+      "zip": "92998-3874"
+    }
+  }
